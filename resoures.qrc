@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>album-cover.jpg</file>
+        <file>playlist.m3u</file>
+    </qresource>
+</RCC>
